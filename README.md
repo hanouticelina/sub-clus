@@ -1,4 +1,4 @@
-# Fuzzy-Subspace-Clustering
+# Subspace clustering et typicalité
 
 ## Carnet de Bord : 
 #### Mardi 11 Juin
