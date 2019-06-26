@@ -1,13 +1,21 @@
 # Subspace clustering et typicalité
 
 ## Carnet de Bord : 
-#### Mardi 11 Juin
-1) demander des precisions sur les mesures de ressemblance et de dissimilarité
-2) effectuer quelques experimentations avec des points extremes
-3) ecrire les comparaisons et les experimentations pour le k-means et le fcm: 
-      1. Sensibilité à l'initialisation aléatoire
-      2. Nombre de points affectés au même cluster dans les deux partitions
-4) entamer l'algorithme 
-#### Mercredi 12 Juin
- 1) travailler sur l'algorithme
- 2) avancer dans le rapport 
+
+### 24 juin - 28 juin:
+- rediger l'Etat de l'art 
+- (Tutoriels de NetLogo)
+- Implémenter l'algorithme avec l'approche simple
+
+### 1 juillet - 5 juillet:
+- Implémenter d'autres versions de l'algorithme en utilisant les operateurs conjonctifs et disjonctifs et eventuellement les OWA
+
+### 8 juillet - 12 juillet:
+- Slides de présentation
+- Code
+- Rapport
+
+### 15 juillet - 19 juillet:
+- Terminer le rapport de stage
+- Soutenance avec les résultats obtenus
+ 
