@@ -152,9 +152,7 @@ def kmoyennes(K, Base, epsilon, iter_max):
     for i in range(iter_max-1):
         mat=affecte_cluster(Base,centroide_df)
         J[1]=inertie_globale(Base,mat)
-        print("inertie gloabale =",J[1])
         if(abs(J[1]-J[0])<epsilon):
-            print("sortie apres",i,' iterations')
             return centroide_df,mat
         else:
             J[0]=J[1]
